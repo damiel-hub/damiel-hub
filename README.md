@@ -1,8 +1,8 @@
-## Hi there 👋 
+### Hi there 👋 
 
 I am Yuan-Hung Chiu (Damiel) 邱元鴻 researching in Professor Hervé Capart's lab.
 
-- 🔭 **Focus:** [Alluvial fan profile and morphometry](https://doi.org/10.1016/j.cageo.2026.106163)
+- **Focus:** [Alluvial fan profile and morphometry](https://doi.org/10.1016/j.cageo.2026.106163)
 - 👨‍🏫 **TA:** [Open Channel](https://github.com/damiel-hub/open_channel_watlab_demo), Advanced Hydrologic Analysis, and Capstone
 - 🛠️ **Expertise:** Geomorphology, Hydrology, Spatial Analysis (GIS), [UAV mapping](https://damiel-hub.github.io/mataian-3d-model/), and Field Surveys
 - 📫 **Contact:** [`damiel8559@gmail.com`](mailto:damiel8559@gmail.com)
