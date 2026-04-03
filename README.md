@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there 👋 
 
-I'm a PhD student at National Taiwan University in the Dept. of Civil Engineering (Hydraulic Engineering Division), researching in Professor Hervé Capart's lab. 
+I am Yuan-Hung Chiu (Damiel) 邱元鴻 researching in Professor Hervé Capart's lab.
 
-- 🔭 I’m currently working as a TA for the [Open Channel class](https://github.com/damiel-hub/open_channel_watlab_demo) and researching [alluvial fan profile and morphometry](https://doi.org/10.1016/j.cageo.2026.106163).
-- 🛠️ Expertise: Geomorphology, Hydrology, Spatial Analysis (GIS), [UAV mapping](https://damiel-hub.github.io/mataian-3d-model/), and Field Surveys.
-- 💻 Tech Stack: MATLAB, Python, Latex, and Agisoft Metashape.
-- 📫 Contact: [`damiel8559@gmail.com`](mailto:damiel8559@gmail.com)
+- 🔭 **Focus:** [Alluvial fan profile and morphometry](https://doi.org/10.1016/j.cageo.2026.106163)
+- 👨‍🏫 **TA:** [Open Channel](https://github.com/damiel-hub/open_channel_watlab_demo), Advanced Hydrologic Analysis, and Capstone
+- 🛠️ **Expertise:** Geomorphology, Hydrology, Spatial Analysis (GIS), [UAV mapping](https://damiel-hub.github.io/mataian-3d-model/), and Field Surveys
+- 📫 **Contact:** [`damiel8559@gmail.com`](mailto:damiel8559@gmail.com)
 <!--
 **damiel-hub/damiel-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
